@@ -1,2 +1,2 @@
 # Profile-Page
-A simple profile page
+Profile page layout using HTML and CSS
